@@ -27,7 +27,7 @@ num3 = float(float_3)
 num4 = float(float_4)
 total_mult = num3*num4
 print(total_mult)
-"""
+
 #Exercise 6
 int_1 = input("enter a number: ")
 int_2 = input("enter another number: ")
