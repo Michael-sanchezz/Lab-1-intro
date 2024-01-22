@@ -1,7 +1,7 @@
 #Exercise 1
-
 user_text = input("Enter some text: ")
 print(user_text)
+
 #Excercise 2
 user_number = input("enter a number: ")
 user_int = int(user_number)
